@@ -40,7 +40,7 @@ int main(){
     cout << "Enter a double: ";
     cin >> num3;
     cout << "The integer is: " << num1 << endl;
-    cout << "And the double is " << num3 << endl;
+    cout << "And the double is " << num3 << endl;    
 
 
     //-----------------------------------------------------
